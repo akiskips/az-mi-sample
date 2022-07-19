@@ -16,3 +16,7 @@ e.g. by running:
 mvn compile exec:java -Dexec.mainClass="mi.AzMiSample"
 ```
 
+Related resources:
+- [Connect using Azure Active Directory authentication](https://docs.microsoft.com/en-us/sql/connect/jdbc/connecting-using-azure-active-directory-authentication?view=sql-server-ver16)
+- [Connect using access token](https://docs.microsoft.com/en-us/sql/connect/jdbc/connecting-using-azure-active-directory-authentication?view=sql-server-ver16#connect-using-access-token)
+
